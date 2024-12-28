@@ -10,9 +10,9 @@ function App() {
     <div className="App">
        <Router>
         <Routes>
-                <Route exact path='/Login' element={<Login></Login>}></Route>
-                <Route exact path='/Home' element={<Home></Home>}></Route>
-                <Route exact path='/' element={<Register></Register>}></Route>
+                <Route exact path='Netflix/Login' element={<Login></Login>}></Route>
+                <Route exact path='Netflix/Home' element={<Home></Home>}></Route>
+                <Route exact path='Netflix/' element={<Register></Register>}></Route>
         </Routes>
     </Router>
       
