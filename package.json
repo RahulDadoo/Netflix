@@ -1,6 +1,7 @@
 {
   "name": "netflix",
   "version": "0.1.0",
+  "homepage": "https://rahuldadoo.github.io/Netflix/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
